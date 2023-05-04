@@ -1,0 +1,5 @@
+App-FileFindUtils-*
+.build
+*~
+nytprof*
+.DS_Store
